@@ -1,5 +1,5 @@
 
-![Image Alt](https://github.com/JHerreraDataAnalyst/JHerreraDataAnalyst/blob/main/Porfolio-Background2-Picsart-AiImageEnhancer.png?raw=true)
+![Image Alt](https://github.com/JHerreraDataAnalyst/JHerreraDataAnalyst/blob/main/Porfolio-Background2-Picsart-AiImageEnhancer2.png?raw=true)
 
 <h1>Hi, I'm Jose!</h1>
 <p>A passionate programmer and data analyst with a focus on building efficient web applications and uncovering insights through data. <a>Programmer</a>, <a href="https://www.linkedin.com/in/jose-herrera-044b2681/">Data Analyst</a></p>
