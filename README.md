@@ -4,6 +4,47 @@
 <h1>Hi, I'm Jose!</h1>
 <p>A passionate programmer and data analyst with a focus on building efficient web applications and uncovering insights through data. <a>Programmer</a>, <a href="https://www.linkedin.com/in/jose-herrera-044b2681/">Data Analyst</a></p>
 
+
+
+
+
+<div align="center">
+
+# 🚀 Proyectos bombitas
+
+**Curso Android Básico**  
+**Arquitectura MVVM**
+
+---
+
+## **📚 APRENDE ANDROID**  
+### EN  
+## **⏰ 12 HORAS**
+
+</div>
+
+---
+
+## **🎯 Características Principales**
+
+### **📱 CÓDIGO COMPLETO**  
+[![YouTube](https://img.shields.io/badge/YouTube_CURSO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+
+> Aprende a programar aplicaciones Android con Kotlin desde cero - En este curso aprenderás todo lo necesario ya que **no es necesario ningún conocimiento previo**. Curso **GRATUITO** de 12 horas con todo el código disponible para descargar.
+
+---
+
+## **🏗️ Arquitectura MVVM Desde 0**
+
+```bash
+Desktop/aprends/export
+
+
+
+
+
 <h2>🛠️ Technical Skills</h2>
 
 - **Languages**: Python, SQL, HTML, CSS, JavaScript
