@@ -48,15 +48,15 @@
 
 <h2>📊 Data Analysis</h2>
 
+- **Python**  
+  - Data Manipulation: Performed data cleaning and analysis using Pandas and NumPy. [GitHub Repo]
+- **SQL**  
+  - Stored Procedures: Wrote optimized stored procedures for efficient data retrieval in PostgreSQL.  
+  - Queries: Designed complex SQL queries for business reporting.  
 - **Power BI Practice**  
   - Sales Data Analysis: Created interactive dashboards to visualize sales trends and KPIs. [Demo Link]  
 - **Google Sheets**  
   - Review Sheet System: Developed an automated system for data review using Google Sheets and Apps Script. [Demo Link]  
-- **SQL**  
-  - Stored Procedures: Wrote optimized stored procedures for efficient data retrieval in PostgreSQL.  
-  - Queries: Designed complex SQL queries for business reporting.  
-- **Python**  
-  - Data Manipulation: Performed data cleaning and analysis using Pandas and NumPy. [GitHub Repo]  
 
 <h2>🤳 Connect with me:</h2>
 
