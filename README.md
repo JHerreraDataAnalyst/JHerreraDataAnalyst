@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a machine learning project to predict sales trends using Python and Scikit-learn.
 - 🌱 I’m currently learning advanced Django techniques and data visualization with Tableau.
-- 👯 I’m looking to collaborate on open-source projects related to data analysis or web development.
+- 🤝 I’m looking to collaborate on open-source projects related to data analysis or web development.
 - 📫 How to reach me: josehb1995@hotmail.com
 - ⚡ Fun fact: I love automating repetitive tasks with Python scripts!
 
