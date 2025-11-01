@@ -35,17 +35,23 @@
 - **Tools**: Power BI, Google Sheets, PostgreSQL, SQL Server, Git, Microsoft Office Suite
 - **Libraries**: Pandas, NumPy, Chart.js
 
-<h2>💻 Software Development Projects:</h2>
+## 💻 Software Development Projects
 
-- **Full Stack Web App (Django Components)**  
-  - Products Inventory App: Developed a web application to manage product stock using Django and PostgreSQL. [GitHub Repo]  
-  - Products Configuration App: Built a tool to customize product settings with Django REST Framework. [GitHub Repo]  
-  - Sales App: Created a sales tracking system with real-time reporting using Chart.js. [GitHub Repo]  
-  - Client Form: Designed a dynamic form for client data collection with Bootstrap. [GitHub Repo]  
+### 🚀 Full Stack Inventory Management Solutions
 
-- **HTML Templates**  
-  - Invoice: Crafted a responsive invoice template using HTML and CSS. [GitHub Repo]  
+| ![Inventory Mobile App](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) | ![Product Management Suite](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Inventory Mobile App**<br><br><a href="https://github.com/JHerreraDataAnalyst/InventoryMobileApp"><img src="https://img.shields.io/badge/-REPOSITORY-333?style=for-the-badge&logo=github" alt="Repository"></a><br><br>Complete inventory system with **Django REST Framework** backend and **React Native** frontend. Includes fast barcode sales, real-time search, and a metrics dashboard. <br><br>**Technologies:** <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"> <img src="https://img.shields.io/badge/DRF-272D32?style=for-the-badge&logo=django&logoColor=green" alt="DRF Badge"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"> <img src="https://img.shields.io/badge/Expo-1F1F1F?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Badge"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"> | **Product Management Suite**<br><br><a href="https://github.com/JHerreraDataAnalyst/ProductManagementSuite"><img src="https://img.shields.io/badge/-REPOSITORY-333?style=for-the-badge&logo=github" alt="Repository"></a><br><br>Complete web system for inventory, sales, and customer management built with Django and Supabase. Includes real-time reports using Chart.js and a REST API. <br><br>**Technologies:** <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js Badge"> <img src="https://img.shields.io/badge/DRF-272D32?style=for-the-badge&logo=django&logoColor=green" alt="DRF Badge"> |
 
+### 🛠️ Key Full Stack Components (Django Components)
+
+This section details the modules within the **Product Management Suite** architecture, highlighting expertise with **Django** as the main framework:
+
+* **Products Inventory App:** Module for stock and inventory control (`products` app). It includes `Product` and `Category` models, and stock control logic in views.
+* **Products Configuration App (API):** The REST API utilizes **Django REST Framework** (`api` app) for configuring and querying products and categories, with custom endpoints for search and low stock status (`low_stock`).
+* **Sales App:** Transaction tracking system (`sales` app) with `Sale` and `SaleItem` models. Includes automatic tax/total calculation in `Sale.save()` and stock validation during sales creation.
+* **Client Form:** Design of a dynamic and validated form (`clients` app) for collecting and managing client data. Includes logic to show/hide the company name field based on client type.
+  
 <h2>📊 Data Analysis</h2>
 
 - **Python**  
@@ -66,5 +72,18 @@
 
 [linkedin]: https://www.linkedin.com/in/jose-herrera-044b2681/
 [email]: mailto:josehb1995@hotmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
