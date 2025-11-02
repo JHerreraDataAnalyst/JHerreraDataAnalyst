@@ -1,39 +1,44 @@
-
 ![Image Alt](https://github.com/JHerreraDataAnalyst/JHerreraDataAnalyst/blob/main/Porfolio-Background2-Picsart-AiImageEnhancer2.png?raw=true)
 
 <h1>Hi, I'm Jose!</h1>
 <p>A passionate programmer and data analyst with a focus on building efficient web applications and uncovering insights through data. <a>Programmer</a>, <a href="https://www.linkedin.com/in/jose-herrera-044b2681/">Data Analyst</a></p>
 
+---
+
 <h2>🌟 About Me</h2>
 
-- 🔭 I’m currently working on a machine learning project to predict sales trends using Python and Scikit-learn.
-- 🌱 I’m currently learning advanced Django techniques and data visualization with Tableau.
-- 🤝 I’m looking to collaborate on open-source projects related to data analysis or web development.
-- 📫 How to reach me: josehb1995@hotmail.com
-- ⚡ Fun fact: I love automating repetitive tasks with Python scripts!
+* 🔭 I’m currently working on a machine learning project to predict sales trends using Python and Scikit-learn.
+* 🌱 I’m currently learning advanced Django techniques and data visualization with Tableau.
+* 🤝 I’m looking to collaborate on open-source projects related to data analysis or web development.
+* 📫 How to reach me: josehb1995@hotmail.com
+* ⚡ Fun fact: I love automating repetitive tasks with Python scripts!
 
-## Proyectos destacados
+---
 
-| ![Sistema de predicción de ventas](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) | ![Dashboard de Business Intelligence](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) |
+## Featured Projects
+
+| ![Sales Prediction System](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) | ![Business Intelligence Dashboard](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Sistema de predicción de ventas**<br><br><a href="https://github.com/tu-usuario/proyecto-ventas"><img src="https://img.shields.io/badge/-CÓDIGO-333?style=for-the-badge&logo=github" alt="Código"></a> <a href="https://tu-link-detalles1"><img src="https://img.shields.io/badge/-VER%20DETALLES-0078D4?style=for-the-badge" alt="Ver Detalles"></a><br><br>Desarrollé un modelo predictivo que anticipa las ventas mensuales con un 92% de precisión, permitiendo una mejor planificación de inventario. | **Dashboard de Business Intelligence**<br><br><a href="https://github.com/tu-usuario/dashboard-bi"><img src="https://img.shields.io/badge/-CÓDIGO-333?style=for-the-badge&logo=github" alt="Código"></a> <a href="https://tu-link-detalles2"><img src="https://img.shields.io/badge/-VER%20DETALLES-0078D4?style=for-the-badge" alt="Ver Detalles"></a><br><br>Creé un dashboard interactivo para el equipo directivo que consolidaba datos de múltiples fuentes y proporcionaba KPIs en tiempo real. |
+| **Sales Prediction System**<br><br><a href="https://github.com/tu-usuario/proyecto-ventas"><img src="https://img.shields.io/badge/-CODE-333?style=for-the-badge&logo=github" alt="Code"></a> <a href="https://tu-link-detalles1"><img src="https://img.shields.io/badge/-VIEW%20DETAILS-0078D4?style=for-the-badge" alt="View Details"></a><br><br>Developed a predictive model that anticipates monthly sales with 92% accuracy, allowing for better inventory planning. | **Business Intelligence Dashboard**<br><br><a href="https://github.com/tu-usuario/dashboard-bi"><img src="https://img.shields.io/badge/-CODE-333?style=for-the-badge&logo=github" alt="Code"></a> <a href="https://tu-link-detalles2"><img src="https://img.shields.io/badge/-VIEW%20DETAILS-0078D4?style=for-the-badge" alt="View Details"></a><br><br>Created an interactive dashboard for the management team that consolidated data from multiple sources and provided real-time KPIs. |
 
-| ![Análisis de segmentación de clientes](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) | ![Sistema de detección de anomalías](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) |
+| ![Customer Segmentation Analysis](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) | ![Anomaly Detection System](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) |
 |-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Análisis de segmentación de clientes**<br><br><a href="https://github.com/tu-usuario/segmentacion-clientes"><img src="https://img.shields.io/badge/-CÓDIGO-333?style=for-the-badge&logo=github" alt="Código"></a> <a href="https://tu-link-detalles3"><img src="https://img.shields.io/badge/-VER%20DETALLES-0078D4?style=for-the-badge" alt="Ver Detalles"></a><br><br>Implementé un análisis de clusters para segmentar la base de clientes, resultando en campañas de marketing más efectivas y personalizadas. | **Sistema de detección de anomalías**<br><br><a href="https://github.com/tu-usuario/deteccion-anomalias"><img src="https://img.shields.io/badge/-CÓDIGO-333?style=for-the-badge&logo=github" alt="Código"></a> <a href="https://tu-link-detalles4"><img src="https://img.shields.io/badge/-VER%20DETALLES-0078D4?style=for-the-badge" alt="Ver Detalles"></a><br><br>Desarrollé un sistema de detección de anomalías en tiempo real para transacciones financieras, reduciendo fraudes en un 35%. |
+| **Customer Segmentation Analysis**<br><br><a href="https://github.com/tu-usuario/segmentacion-clientes"><img src="https://img.shields.io/badge/-CODE-333?style=for-the-badge&logo=github" alt="Code"></a> <a href="https://tu-link-detalles3"><img src="https://img.shields.io/badge/-VIEW%20DETAILS-0078D4?style=for-the-badge" alt="View Details"></a><br><br>Implemented a cluster analysis to segment the customer base, resulting in more effective and personalized marketing campaigns. | **Anomaly Detection System**<br><br><a href="https://github.com/tu-usuario/deteccion-anomalias"><img src="https://img.shields.io/badge/-CODE-333?style=for-the-badge&logo=github" alt="Code"></a> <a href="https://tu-link-detalles4"><img src="https://img.shields.io/badge/-VIEW%20DETAILS-0078D4?style=for-the-badge" alt="View Details"></a><br><br>Developed a real-time anomaly detection system for financial transactions, reducing fraud by 35%. |
 
-| ![Optimización de rutas logísticas](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) | ![Plataforma de análisis de sentimientos](https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80) |
+| ![Logistics Route Optimization](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80) | ![Sentiment Analysis Platform](https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80) |
 |-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Optimización de rutas logísticas**<br><br><a href="https://github.com/tu-usuario/optimizacion-rutas"><img src="https://img.shields.io/badge/-CÓDIGO-333?style=for-the-badge&logo=github" alt="Código"></a> <a href="https://tu-link-detalles5"><img src="https://img.shields.io/badge/-VER%20DETALLES-0078D4?style=for-the-badge" alt="Ver Detalles"></a><br><br>Implementé un algoritmo de optimización de rutas que redujo los costos de logística en un 22% y mejoró los tiempos de entrega. | **Plataforma de análisis de sentimientos**<br><br><a href="https://github.com/tu-usuario/analisis-sentimientos"><img src="https://img.shields.io/badge/-CÓDIGO-333?style=for-the-badge&logo=github" alt="Código"></a> <a href="https://tu-link-detalles6"><img src="https://img.shields.io/badge/-VER%20DETALLES-0078D4?style=for-the-badge" alt="Ver Detalles"></a><br><br>Creé una plataforma de análisis de sentimientos en redes sociales para monitorizar la percepción de marca con 89% de precisión. |
+| **Logistics Route Optimization**<br><br><a href="https://github.com/tu-usuario/optimizacion-rutas"><img src="https://img.shields.io/badge/-CODE-333?style=for-the-badge&logo=github" alt="Code"></a> <a href="https://tu-link-detalles5"><img src="https://img.shields.io/badge/-VIEW%20DETAILS-0078D4?style=for-the-badge" alt="View Details"></a><br><br>Implemented a route optimization algorithm that reduced logistics costs by 22% and improved delivery times. | **Sentiment Analysis Platform**<br><br><a href="https://github.com/tu-usuario/analisis-sentimientos"><img src="https://img.shields.io/badge/-CODE-333?style=for-the-badge&logo=github" alt="Code"></a> <a href="https://tu-link-detalles6"><img src="https://img.shields.io/badge/-VIEW%20DETAILS-0078D4?style=for-the-badge" alt="View Details"></a><br><br>Created a social media sentiment analysis platform to monitor brand perception with 89% accuracy. |
 
-
+---
 
 <h2>🛠️ Technical Skills</h2>
 
-- **Languages**: Python, SQL, HTML, CSS, JavaScript
-- **Frameworks**: Django, Django REST Framework
-- **Tools**: Power BI, Google Sheets, PostgreSQL, SQL Server, Git, Microsoft Office Suite
-- **Libraries**: Pandas, NumPy, Chart.js
+* **Languages**: Python, SQL, HTML, CSS, JavaScript
+* **Frameworks**: Django, Django REST Framework
+* **Tools**: Power BI, Google Sheets, PostgreSQL, SQL Server, Git, Microsoft Office Suite
+* **Libraries**: Pandas, NumPy, Chart.js
+
+---
 
 ## 💻 Software Development Projects
 
@@ -51,18 +56,22 @@ This section details the modules within the **Product Management Suite** archite
 * **Products Configuration App (API):** The REST API utilizes **Django REST Framework** (`api` app) for configuring and querying products and categories, with custom endpoints for search and low stock status (`low_stock`).
 * **Sales App:** Transaction tracking system (`sales` app) with `Sale` and `SaleItem` models. Includes automatic tax/total calculation in `Sale.save()` and stock validation during sales creation.
 * **Client Form:** Design of a dynamic and validated form (`clients` app) for collecting and managing client data. Includes logic to show/hide the company name field based on client type.
-  
+
+---
+
 <h2>📊 Data Analysis</h2>
 
-- **Python**  
-  - Data Manipulation: Performed data cleaning and analysis using Pandas and NumPy. [GitHub Repo]
-- **SQL**  
-  - Stored Procedures: Wrote optimized stored procedures for efficient data retrieval in PostgreSQL.  
-  - Queries: Designed complex SQL queries for business reporting.  
-- **Power BI Practice**  
-  - Sales Data Analysis: Created interactive dashboards to visualize sales trends and KPIs. [Demo Link]  
-- **Google Sheets**  
-  - Review Sheet System: Developed an automated system for data review using Google Sheets and Apps Script. [Demo Link]  
+* **Python**
+    * Data Manipulation: Performed data cleaning and analysis using **Pandas** and **NumPy**. [GitHub Repo]
+* **SQL**
+    * Stored Procedures: Wrote optimized stored procedures for efficient data retrieval in **PostgreSQL**.
+    * Queries: Designed complex **SQL** queries for business reporting.
+* **Power BI Practice**
+    * Sales Data Analysis: Created interactive dashboards to visualize sales trends and KPIs. [Demo Link]
+* **Google Sheets**
+    * Review Sheet System: Developed an automated system for data review using **Google Sheets** and **Apps Script**. [Demo Link]
+
+---
 
 <h2>🤳 Connect with me:</h2>
 
@@ -72,18 +81,3 @@ This section details the modules within the **Product Management Suite** archite
 
 [linkedin]: https://www.linkedin.com/in/jose-herrera-044b2681/
 [email]: mailto:josehb1995@hotmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
